@@ -1,6 +1,7 @@
 import streamlit as st
 import html
-from Tinder.app.ui_components import inject_custom_css
+from def.ui_components import 
+
 
 def render_match_screen(activity):
     """
